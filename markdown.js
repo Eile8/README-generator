@@ -7,12 +7,12 @@ function markdown(answer) {
 # Description
 ${answer.Description}
 # Table of contents
-* [Installation](#Installation)
-* [Usage](#Usage)
-* [License](#License)
-* [Contributor](#Contributor)
-* [Tests](#Tests)
-* [Contact](#Contact info)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributor](#contributor)
+* [Tests](#tests)
+* [Contacts](#contacts)
 # Installation
 These are the required dependencies to install in order to run the APP properly: 
 ${answer.Installation}
@@ -24,10 +24,10 @@ ${answer.License} [![License: MIT](https://img.shields.io/badge/License-MIT-yell
 ${answer.Contributors}
 # Tests 
 ${answer.Tests}
-# Contact info
+# Contacts
 Profile: https://github.com/${answer.Username}
 Email: ${answer.Email}
 `
 }
 
-module.exports=markdown
+module.exports=markdown;

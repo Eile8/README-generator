@@ -5,12 +5,12 @@
 # Description
 This generator helps developers building a professional README file in a fast and easy way without going into the actual README in Github.
 # Table of contents
-* [Installation] (# Installation)
-* [Usage] (# Usage)
-* [License] (# License)
-* [Contributor] (# Contributor)
-* [Tests] (# Tests)
-* [Contact] (# Contact info)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributor](#contributor)
+* [Tests](#tests)
+* [Contacts](#contacts)
 # Installation
 These are the required dependencies to install in order to run the APP properly: 
 node.js, npm, and inquirer
@@ -22,6 +22,6 @@ MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https
 N/A
 # Tests 
 run tests in the terminal by entering node filename.js.
-# Contact info
+# Contacts
 Profile: https://github.com/eile8
 Email: eileenlu9834@gmail.com

@@ -54,7 +54,7 @@ inquirer.prompt([
     {
         type: "input",
         name: "Contributors", 
-        message: 'wh0 are the contributors',
+        message: 'who are the contributors?',
     },
     {
         type: "input",
